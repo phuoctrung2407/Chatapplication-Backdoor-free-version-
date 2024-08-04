@@ -31,11 +31,11 @@ _ Contact
   
 - Secure client-to-client encrytion
 
-_ JWT-based authentication
+- JWT-based authentication
 
 - Presence updates to show online user
 
-_ Rate limiting
+- Rate limiting
 
 ## Technologies Used
 - **Express.js**
