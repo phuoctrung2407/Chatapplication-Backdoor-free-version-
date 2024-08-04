@@ -24,11 +24,17 @@ _ Contact
 
 ## Features
 - Real-time messaging: Users can send and receive messages in real time.
+  
 - Multiple chat rooms: There will be different option of chat room for user to use and experiences.
+  
 - Private messaging: The system can support private one-on-one chat via client with client.
+  
 - Secure client-to-client encrytion
+  
 _ JWT-based authentication
+
 - Presence updates to show online user
+  
 _ Rate limiting
 
 ## Technologies Used
