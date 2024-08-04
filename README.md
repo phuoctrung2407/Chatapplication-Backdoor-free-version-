@@ -5,13 +5,21 @@ This is a simple chat system implemented using Websockets, Express and Node.js. 
 ## Table of Contents
 
 _ Features
+
 _ Technologies Used
+
 _ Prerequisites
+
 _ Installation
+
 _ Usage
+
 _ Configuration
+
 _ Security and Encryption
+
 _ License
+
 _ Contact
 
 ## Features
