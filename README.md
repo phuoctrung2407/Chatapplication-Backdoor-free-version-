@@ -125,6 +125,6 @@ _ In order to proven DoS attack, `express-rate-limit` library was used to limiti
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
 
 ## Contact
-Group 13 
-For any feedback or inquiries, please feel free to contact a1878870@adelaide.edu.eu
+- Group 13 
+- For any feedback or inquiries, please feel free to contact a1878870@adelaide.edu.eu
 
