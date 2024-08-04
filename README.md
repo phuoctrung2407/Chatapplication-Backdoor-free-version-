@@ -30,11 +30,11 @@ _ Contact
 - Private messaging: The system can support private one-on-one chat via client with client.
   
 - Secure client-to-client encrytion
-  
+
 _ JWT-based authentication
 
 - Presence updates to show online user
-  
+
 _ Rate limiting
 
 ## Technologies Used
