@@ -3,6 +3,7 @@
 This is a simple chat system implemented using Websockets, Express and Node.js. The project support private as well as public messaging with presence update, secure communication using encryption, point-to-point file transfer. In addition, this website is support with extra security measures.
 
 ## Table of Contents
+
 _ Features
 _ Technologies Used
 _ Prerequisites
