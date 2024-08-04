@@ -74,31 +74,18 @@ To run the chat system locally, follow these steps:
 
 ## Usage
 chatapplication/
-
 ├── certs/
-
 │   ├── private-key.pem
-
 │   └── certificate.pem
-
 ├── public/
-
 │   ├── css/
-
 │   │   └── styles.css
-
 │   ├── js/
-
 │   │   └── chat.js
-
 │   ├── chat.html
-
 │   └── index.html
-
 ├── app.js
-
 ├── package.json
-
 └── README.md
 
 ### Logging in
