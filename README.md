@@ -51,9 +51,13 @@ _ Rate limiting
 
 
 ## Prerequisites
+
 _ Node.js (v14 or later)
+
 _ npm (Node Package Manager)
+
 _ Web brower (Any web browser will work)
+
 _ SSL certificate for HTTPS
 
 ## Installation
@@ -85,13 +89,21 @@ chatapplication/
 └── README.md
 
 ### Logging in
+
 _ Open the chat application on your browser
+
 _ Enter your name to join the chat room
+
 _ The server will broadcast your presence to other users.
+
 ### Sending Messages
+
 _Private message: Select a user that you want to have a private chat on the tab, The message will be encrypted and sent directly to the selected user.
+
 _Public message: Just simply type your message in the input box then click "Send". The message will be broadcast to all users in the chat room.
+
 ### File Transfer
+
 _ Pick a file to send to another user. It will be encrypted and transferred directly to the recipient.
 
 ## Configuration 
