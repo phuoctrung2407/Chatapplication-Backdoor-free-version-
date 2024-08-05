@@ -56,13 +56,14 @@ _ SSL certificate for HTTPS
 To run the chat system locally, follow these steps:
 
 1. Clone the repository
-2. Install the dependencies: `npm install express-rate-limit sanitize-html`
-3. Generating SSL certificates: `openssl req -nodes -new -x509 -keyout certs/private-key.pem -out certs/certificate.pem -days 365`
-4. Start the server: `npm run start`
-5. Optional: If you dont know your IP address, put `ifconfig` for Terminal in Mac, or `ipconfig` for Command Prompt in Window.
-6. Access the chat system in your web browser: `https://<YOUR_IP_ADDRESS>:5555` 
-7. Enter Username and Chatroom number
-8. Start chatting
+2. Install JSON Web Tokens: `npm install jsonwebtoken`
+3. Install the dependencies: `npm install express-rate-limit sanitize-html`
+4. Generating SSL certificates: `openssl req -nodes -new -x509 -keyout certs/private-key.pem -out certs/certificate.pem -days 365`
+5. Start the server: `npm run start`
+6. Optional: If you dont know your IP address, put `ifconfig` for Terminal in Mac, or `ipconfig` for Command Prompt in Window.
+7. Access the chat system in your web browser: `https://<YOUR_IP_ADDRESS>:5555` 
+8. Enter Username and Chatroom number
+9. Start chatting
 
 ## Usage
 chatapplication/
